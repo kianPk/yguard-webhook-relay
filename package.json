@@ -1,0 +1,9 @@
+{
+  "name": "yguard-webhook-relay",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "build": "tsc", "start": "node dist/server.js" },
+  "author": "Kian Zarandi",
+  "license": "MIT",
+  "devDependencies": { "@types/node": "^20.11.0", "typescript": "^5.3.0" }
+}
